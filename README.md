@@ -24,3 +24,4 @@ npm i jest eslint
      - evey test solved and another time i will cover more cases.
 #### UML
 Link to an image of the UML for your application and response to events
+![White-Board](assets/Asynch.jpg) (GitHub Actions)
